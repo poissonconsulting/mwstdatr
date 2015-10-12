@@ -1,7 +1,7 @@
-Package: mwst
+Package: mwstdatr
 Type: Package
 Title: Mountain Whitefish Spawn Timing Data
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: c(
     person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre")),
     person("Robyn", "Irvine", role = c("aut", "dtc")),
@@ -17,11 +17,8 @@ Description: The R data package for the Irvine et al. manuscript
 License: CC BY 4.0 + file LICENSE
 URL: https://github.com/poissonconsulting/mwstdatr
 LazyData: true
-SystemRequirements:
-    GEOS (>= 3.2.0)
 Depends:
-    R (>= 3.2.2),
-    sp
+    R (>= 3.2.2)
 Suggests:
     assertthat,
     magrittr,
@@ -35,4 +32,5 @@ Suggests:
     rgdal,
     maptools,
     plotKML,
+    sp,
     devtools
