@@ -7,10 +7,11 @@ Authors@R: c(
     person("Robyn", "Irvine", role = c("aut", "dtc")),
     person("Louise", "Porto", role = c("aut", "dtc")),
     person("Crystal", "Lawrence", role = c("dtc")),
-    person("Greg", "Andrusak", role = c("dtc")),
-    person("Jason", "Bowers", role = c("dtc")),
+    person("Jeremy", "Baxter", role = c("dtc")),
     person("Jim", "Lawrence", role = c("dtc")),
-    person("Jeremy", "Baxter", role = c("dtc")))
+    person("Mark", "Thomas", role = c("dtc")),
+    person("Greg", "Andrusak", role = c("dtc")),
+    person("Clint", "Tarala", role = c("dtc")))
 Description: The R data package for the Irvine et al. manuscript
     When Do Mountain Whitefish (Prosopium williamsoni) Spawn?
     A Comparison of Estimates Based on Gonadosomatic Indices and Spawner and Egg Counts.
