@@ -8,4 +8,5 @@
 #'
 #' @docType package
 #' @name mwstdatr
+#' @import sp
 NULL

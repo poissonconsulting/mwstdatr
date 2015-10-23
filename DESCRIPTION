@@ -19,19 +19,5 @@ License: CC BY 4.0 + file LICENSE
 URL: https://github.com/poissonconsulting/mwstdatr
 LazyData: true
 Depends:
-    R (>= 3.2.2)
-Suggests:
-    assertthat,
-    magrittr,
-    dplyr,
-    ggplot2,
-    lubridate,
-    scales,
-    xtable,
-    raster,
-    rgeos,
-    rgdal,
-    maptools,
-    plotKML,
-    sp,
-    devtools
+    R (>= 3.2.2),
+    sp

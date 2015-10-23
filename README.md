@@ -1,3 +1,5 @@
+[![Travis-CI Build Status](https://travis-ci.org/poissonconsulting/mwstdatr.svg?branch=master)](https://travis-ci.org/poissonconsulting/mwstdatr)
+
 # Mountain Whitefish Spawn Timing R Data Package
 
 `mwstdatr` is the R data package for the Irvine et al.'s manuscript 
