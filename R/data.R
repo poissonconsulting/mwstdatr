@@ -84,3 +84,10 @@
 #' Columbia.
 #' The projection is EPSG:3153
 "mats"
+
+#' Transect
+#'
+#' @format A SpatialPointsDataFrame object of the spawner survey transect start and end locations on the Lower Duncan River, British
+#' Columbia.
+#' The projection is EPSG:3153
+"transect"
