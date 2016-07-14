@@ -12,12 +12,13 @@ Authors@R: c(
     person("Mark", "Thomas", role = c("dtc")),
     person("Greg", "Andrusak", role = c("dtc")),
     person("Clint", "Tarala", role = c("dtc")))
-Description: The R data package for the Irvine et al. manuscript
-    When Do Mountain Whitefish (Prosopium williamsoni) Spawn?
-    A Comparison of Estimates Based on Gonadosomatic Indices and Spawner and Egg Counts.
+Description: The R data package for the Irvine et al. manuscript When Do
+    Mountain Whitefish (Prosopium williamsoni) Spawn? A Comparison of Estimates
+    Based on Gonadosomatic Indices and Spawner and Egg Counts.
 License: CC BY 4.0 + file LICENSE
 URL: https://github.com/poissonconsulting/mwstdatr
 LazyData: true
 Depends:
     R (>= 3.2.2),
     sp
+RoxygenNote: 5.0.1
