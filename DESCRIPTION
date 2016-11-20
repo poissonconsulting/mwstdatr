@@ -1,7 +1,8 @@
 Package: mwstdatr
 Type: Package
 Title: Mountain Whitefish Spawn Timing Data
-Version: 0.0.1
+Version: 0.0.2
+Date: 2016-11-20
 Authors@R: c(
     person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre")),
     person("Robyn", "Irvine", role = c("aut", "dtc")),
