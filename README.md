@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.32591.svg)](http://dx.doi.org/10.5281/zenodo.32591)
+[![DOI](https://zenodo.org/badge/44136649.svg)](https://zenodo.org/badge/latestdoi/44136649)
 [![Travis-CI Build Status](https://travis-ci.org/poissonconsulting/mwstdatr.svg?branch=master)](https://travis-ci.org/poissonconsulting/mwstdatr)
 
 # Mountain Whitefish Spawn Timing R Data Package
